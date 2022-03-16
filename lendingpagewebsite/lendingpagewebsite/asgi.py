@@ -1,5 +1,5 @@
 """
-ASGI config for lendingpagewebsite_root project.
+ASGI config for lendingpagewebsite project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 

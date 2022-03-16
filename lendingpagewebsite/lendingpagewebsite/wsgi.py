@@ -1,5 +1,5 @@
 """
-WSGI config for lendingpagewebsite_root project.
+WSGI config for lendingpagewebsite project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
